@@ -51,7 +51,7 @@ table {
 body {
     font: 16px/28px arial,sans-serf;
     background-color: lightgrey;
-    background-image: url(iron2.jpg);
+    background-image: url(latihanweb2/iron.jpg);
     color: black;
 }
 
@@ -86,7 +86,7 @@ body {
 
 .hero {
     height: 350px;
-    background-image: url(iron.jpg);
+    background-image: url(latihanweb2/iron2.jpg);
     background-size: cover;
     background-position: 0 -100px;
 }
