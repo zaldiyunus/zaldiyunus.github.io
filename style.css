@@ -1,0 +1,30 @@
+h1 {
+    font-size: 50px;
+    font-family: arial, Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    font-variant: small-caps;
+}
+
+p {
+    font: italic normal lighter 12px/18px consolas,arial, sans-serif;
+    text-align: center;
+}
+
+.hello:link {
+    color: orange;
+}
+
+.hello:hover {
+    font-family: arial;
+    font-size: 20px;
+    color: green;
+}
+
+#sarapan {
+    color: green;
+}
+
+.favorit {
+    color: red;
+}
